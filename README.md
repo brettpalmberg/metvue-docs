@@ -1,5 +1,6 @@
+[![Documentation Status](https://readthedocs.org/projects/hec-metvue/badge/?version=latest)](https://hec-metvue.readthedocs.io/en/latest/?badge=latest)
 
-# HEC-MetVue User Manual
+# Draft HEC-MetVue User Manual
 
 ## Just a DEMO
 
