@@ -4,4 +4,6 @@
 
 ## Just a DEMO
 
+View the documentation, built continuously in HTML, PDF, and ePub [here](https://readthedocs.org/projects/hec-metvue/)
+
 Continuous documentation with [Sphinx](http://www.sphinx-doc.org) and [ReadTheDocs](https://readthedocs.org)
