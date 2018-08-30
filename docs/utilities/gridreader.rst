@@ -12,8 +12,8 @@ Usage
                [-bTime time1] [-eTime time2] [-dTime timespan] [-shift timespan]
                [-title title]
 
-Description
------------
+Better Description
+------------------
 
 Read TINs or Grids in any MetVue-supported format and write to DSS or native MetVue TIN format
 
